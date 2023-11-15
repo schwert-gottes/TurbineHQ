@@ -5,7 +5,7 @@
 <h1 align="center"> TurbineHQ</h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-   <img alt="Street Easy" title="Gamitar" src="https://ibb.co/Z6KWtFr" width="350px" >
+   <img alt="Street Easy" title="Gamitar" src="https://www.turbinehq.com/hubfs/Turbine_Logo_-_dark.png" width="350px" >
   </a>
 </p>
 
