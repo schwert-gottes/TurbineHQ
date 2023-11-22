@@ -68,7 +68,7 @@ Turbine is a web-based tool to take care of business admin including HR records,
 
 Allows admins to track and manage staff holidays, sick days, and other time off. No more untidy paperwork or missing forms. Employees can request time off quickly online. Managers can approve or reject it easily.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446155-credit-handling.png" width="350px" >
+
 
 
 
@@ -77,7 +77,7 @@ Allows admins to track and manage staff holidays, sick days, and other time off.
 
 Turbine makes it easy for people to manage purchase orders online and for companies to get control of spending. No software downloads required – it’s all online for a low monthly subscription for the whole company.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446160-game-scheduling.png" width="350px" >
+
 
 
 ## Email Templates
@@ -85,7 +85,7 @@ Turbine makes it easy for people to manage purchase orders online and for compan
 One of the key components of Turbine is an email editor. Admins (managers) can customize content, formatting, and layouts of emails to be sent to end-users (employees) directly from their company portal within Turbine.
 
 
-<img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446148-admin-panel.png" width="350px" >
+
 
 
 ## Employee database
@@ -93,7 +93,7 @@ One of the key components of Turbine is an email editor. Admins (managers) can c
 
 Turbine lets you keep employee information in one place, making it easier to find, use, and update.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446164-profile-management.png" width="350px" >
+
 
 ## Reports
 
@@ -101,7 +101,7 @@ Turbine lets you keep employee information in one place, making it easier to fin
 Turbine lets you keep employee information in one place, making it easier to find, use, and update.
 
 
-<img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446164-profile-management.png" width="350px" >
+
 
 
 
